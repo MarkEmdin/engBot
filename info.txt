@@ -1,0 +1,1 @@
+https://api.telegram.org/bot5851600367:AAF3bW32ZWG5hjQpruRgEmeS5Gn4N4NDoUo/setWebhook?url=https://41o2oggz26.execute-api.eu-central-1.amazonaws.com/telegram-handler
